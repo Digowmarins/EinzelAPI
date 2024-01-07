@@ -1,5 +1,7 @@
 # API Einzel
 
+**Nota:** Este projeto deve ser usado em conjunto com a [LojaEinzel](https://github.com/Digowmarins/Einzel).
+
 Bem-vindo à API Einzel, uma poderosa solução desenvolvida em .NET para alimentar o site de compras de roupas Einzel.
 
 ## Visão Geral
